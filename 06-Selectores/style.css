@@ -2,7 +2,7 @@ button::before {
     content: 'Pasa por encima';
 }
 
-button:hover::before{
+button:hover::before {
     background-color: green;
     color: white;
     content: '¡Hecho!';
