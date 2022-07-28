@@ -8,9 +8,9 @@ button:hover::before {
     content: '¡Hecho!';
 }
 
-o 
+/* o 
 
-/* .btn:hover {
+.btn:hover {
     background-color: green;
     color: white;
 }
