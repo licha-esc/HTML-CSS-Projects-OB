@@ -1,0 +1,16 @@
+.btn-modern {
+    background-color:fuchsia;
+    color: white;
+    border: none;
+    border-radius: 3px;
+}
+
+.btn-modern:hover {
+    border: none;
+    border-radius: 3px;
+    transform: translateY(-5px);
+    background-color: aquamarine;
+    color: black;
+    transition: all 0.4s;
+    box-shadow: 5px 5px;
+}
